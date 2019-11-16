@@ -1,0 +1,7 @@
+C:\Users\dvgro\source\repos\PFactMeth\PFactMeth\bin\Debug\PFactMeth.exe.config
+C:\Users\dvgro\source\repos\PFactMeth\PFactMeth\bin\Debug\PFactMeth.exe
+C:\Users\dvgro\source\repos\PFactMeth\PFactMeth\bin\Debug\PFactMeth.pdb
+C:\Users\dvgro\source\repos\PFactMeth\PFactMeth\obj\Debug\PFactMeth.csprojAssemblyReference.cache
+C:\Users\dvgro\source\repos\PFactMeth\PFactMeth\obj\Debug\PFactMeth.csproj.CoreCompileInputs.cache
+C:\Users\dvgro\source\repos\PFactMeth\PFactMeth\obj\Debug\PFactMeth.exe
+C:\Users\dvgro\source\repos\PFactMeth\PFactMeth\obj\Debug\PFactMeth.pdb
